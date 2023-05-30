@@ -1,0 +1,11 @@
+[2023-05-29 18:12:56,168] - 160 - INFO - NumExpr defaulting to 4 threads.
+[2023-05-29 18:12:56,972] - 225 - WARNING -  * Debugger is active!
+[2023-05-29 18:12:57,002] - 225 - INFO -  * Debugger PIN: 546-854-495
+[2023-05-29 18:13:06,527] - 15 - INFO - Index page is succesfully rendered.
+[2023-05-29 18:13:06,542] - 225 - INFO - 127.0.0.1 - - [29/May/2023 18:13:06] "GET / HTTP/1.1" 200 -
+[2023-05-29 18:13:20,032] - 28 - INFO - Search query is successfully fetched.
+[2023-05-29 18:13:22,559] - 67 - INFO - Reviews are successfully fetched.
+[2023-05-29 18:13:22,563] - 225 - INFO - 127.0.0.1 - - [29/May/2023 18:13:22] "POST /review HTTP/1.1" 200 -
+[2023-05-29 18:13:22,597] - 225 - INFO - 127.0.0.1 - - [29/May/2023 18:13:22] "[33mGET /style.css HTTP/1.1[0m" 404 -
+[2023-05-29 18:15:34,138] - 225 - INFO -  * Detected change in '/Users/anshulmehra/WEB_SCRAPING/app.py', reloading
+[2023-05-29 18:15:34,147] - 225 - INFO -  * Detected change in '/Users/anshulmehra/WEB_SCRAPING/app.py', reloading

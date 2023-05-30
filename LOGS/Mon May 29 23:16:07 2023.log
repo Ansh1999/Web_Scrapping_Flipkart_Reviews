@@ -1,0 +1,6 @@
+[2023-05-29 23:16:09,393] - 160 - INFO - NumExpr defaulting to 4 threads.
+[2023-05-29 23:16:09,840] - 225 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2023-05-29 23:16:09,871] - 225 - INFO -  * Restarting with watchdog (fsevents)
+[2023-05-29 23:20:51,712] - 225 - INFO -  * Restarting with watchdog (fsevents)
+[2023-05-29 23:22:35,162] - 225 - INFO -  * Restarting with watchdog (fsevents)
+[2023-05-30 15:09:29,312] - 225 - INFO -  * Restarting with watchdog (fsevents)

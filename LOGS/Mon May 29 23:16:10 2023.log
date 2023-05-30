@@ -1,0 +1,16 @@
+[2023-05-29 23:16:12,129] - 160 - INFO - NumExpr defaulting to 4 threads.
+[2023-05-29 23:16:12,326] - 225 - WARNING -  * Debugger is active!
+[2023-05-29 23:16:12,339] - 225 - INFO -  * Debugger PIN: 546-854-495
+[2023-05-29 23:16:32,676] - 15 - INFO - Index page is succesfully rendered.
+[2023-05-29 23:16:32,687] - 225 - INFO - 127.0.0.1 - - [29/May/2023 23:16:32] "GET / HTTP/1.1" 200 -
+[2023-05-29 23:16:50,570] - 28 - INFO - Search query is successfully fetched.
+[2023-05-29 23:16:59,443] - 67 - INFO - Succefully saved in csv format.
+[2023-05-29 23:16:59,443] - 68 - INFO - Reviews are successfully fetched.
+[2023-05-29 23:16:59,448] - 225 - INFO - 127.0.0.1 - - [29/May/2023 23:16:59] "POST /review HTTP/1.1" 200 -
+[2023-05-29 23:16:59,484] - 225 - INFO - 127.0.0.1 - - [29/May/2023 23:16:59] "[33mGET /style.css HTTP/1.1[0m" 404 -
+[2023-05-29 23:19:57,215] - 28 - INFO - Search query is successfully fetched.
+[2023-05-29 23:19:58,791] - 72 - ERROR - 'NoneType' object is not subscriptable
+[2023-05-29 23:19:58,791] - 73 - ERROR - Reviews are not displayed
+[2023-05-29 23:19:58,792] - 225 - INFO - 127.0.0.1 - - [29/May/2023 23:19:58] "POST /review HTTP/1.1" 200 -
+[2023-05-29 23:20:50,529] - 225 - INFO -  * Detected change in '/Users/anshulmehra/WEB_SCRAPING/app.py', reloading
+[2023-05-29 23:20:50,534] - 225 - INFO -  * Detected change in '/Users/anshulmehra/WEB_SCRAPING/app.py', reloading

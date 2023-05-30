@@ -1,0 +1,10 @@
+[2023-05-30 15:12:57,572] - 160 - INFO - NumExpr defaulting to 4 threads.
+[2023-05-30 15:12:57,847] - 225 - WARNING -  * Debugger is active!
+[2023-05-30 15:12:57,865] - 225 - INFO -  * Debugger PIN: 546-854-495
+[2023-05-30 15:13:17,595] - 15 - INFO - Index page is succesfully rendered.
+[2023-05-30 15:13:17,610] - 225 - INFO - 127.0.0.1 - - [30/May/2023 15:13:17] "GET / HTTP/1.1" 200 -
+[2023-05-30 15:13:30,353] - 28 - INFO - Search query is successfully fetched.
+[2023-05-30 15:13:33,379] - 67 - INFO - Succefully saved in csv format.
+[2023-05-30 15:13:33,379] - 68 - INFO - Reviews are successfully fetched.
+[2023-05-30 15:13:33,385] - 225 - INFO - 127.0.0.1 - - [30/May/2023 15:13:33] "POST /review HTTP/1.1" 200 -
+[2023-05-30 15:13:33,432] - 225 - INFO - 127.0.0.1 - - [30/May/2023 15:13:33] "[33mGET /style.css HTTP/1.1[0m" 404 -

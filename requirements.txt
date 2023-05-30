@@ -1,0 +1,6 @@
+flask
+pandas
+urllib
+flask_cors
+bs4
+requests

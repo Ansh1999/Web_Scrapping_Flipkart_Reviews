@@ -1,0 +1,17 @@
+[2023-05-29 23:20:53,980] - 160 - INFO - NumExpr defaulting to 4 threads.
+[2023-05-29 23:20:54,524] - 225 - WARNING -  * Debugger is active!
+[2023-05-29 23:20:54,539] - 225 - INFO -  * Debugger PIN: 546-854-495
+[2023-05-29 23:21:01,009] - 15 - INFO - Index page is succesfully rendered.
+[2023-05-29 23:21:01,022] - 225 - INFO - 127.0.0.1 - - [29/May/2023 23:21:01] "GET / HTTP/1.1" 200 -
+[2023-05-29 23:21:12,907] - 28 - INFO - Search query is successfully fetched.
+[2023-05-29 23:21:14,189] - 72 - ERROR - 'NoneType' object is not subscriptable
+[2023-05-29 23:21:14,190] - 73 - ERROR - Reviews are not displayed
+[2023-05-29 23:21:14,190] - 225 - INFO - 127.0.0.1 - - [29/May/2023 23:21:14] "POST /review HTTP/1.1" 200 -
+[2023-05-29 23:21:45,881] - 15 - INFO - Index page is succesfully rendered.
+[2023-05-29 23:21:45,882] - 225 - INFO - 127.0.0.1 - - [29/May/2023 23:21:45] "GET / HTTP/1.1" 200 -
+[2023-05-29 23:21:50,722] - 28 - INFO - Search query is successfully fetched.
+[2023-05-29 23:21:53,504] - 67 - INFO - Succefully saved in csv format.
+[2023-05-29 23:21:53,504] - 68 - INFO - Reviews are successfully fetched.
+[2023-05-29 23:21:53,508] - 225 - INFO - 127.0.0.1 - - [29/May/2023 23:21:53] "POST /review HTTP/1.1" 200 -
+[2023-05-29 23:21:53,538] - 225 - INFO - 127.0.0.1 - - [29/May/2023 23:21:53] "[33mGET /style.css HTTP/1.1[0m" 404 -
+[2023-05-29 23:22:33,913] - 225 - INFO -  * Detected change in '/Users/anshulmehra/WEB_SCRAPING/app2.py', reloading

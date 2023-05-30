@@ -1,0 +1,20 @@
+[2023-05-29 23:22:38,226] - 160 - INFO - NumExpr defaulting to 4 threads.
+[2023-05-29 23:22:38,763] - 225 - WARNING -  * Debugger is active!
+[2023-05-29 23:22:38,779] - 225 - INFO -  * Debugger PIN: 546-854-495
+[2023-05-30 14:05:37,458] - 225 - INFO - 127.0.0.1 - - [30/May/2023 14:05:37] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2023-05-30 14:05:37,460] - 225 - INFO - 127.0.0.1 - - [30/May/2023 14:05:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2023-05-30 14:05:38,427] - 15 - INFO - Index page is succesfully rendered.
+[2023-05-30 14:05:38,458] - 225 - INFO - 127.0.0.1 - - [30/May/2023 14:05:38] "GET / HTTP/1.1" 200 -
+[2023-05-30 14:06:40,857] - 28 - INFO - Search query is successfully fetched.
+[2023-05-30 14:06:43,824] - 67 - INFO - Succefully saved in csv format.
+[2023-05-30 14:06:43,824] - 68 - INFO - Reviews are successfully fetched.
+[2023-05-30 14:06:43,831] - 225 - INFO - 127.0.0.1 - - [30/May/2023 14:06:43] "POST /review HTTP/1.1" 200 -
+[2023-05-30 14:06:43,905] - 225 - INFO - 127.0.0.1 - - [30/May/2023 14:06:43] "[33mGET /style.css HTTP/1.1[0m" 404 -
+[2023-05-30 14:08:30,244] - 15 - INFO - Index page is succesfully rendered.
+[2023-05-30 14:08:30,245] - 225 - INFO - 127.0.0.1 - - [30/May/2023 14:08:30] "GET / HTTP/1.1" 200 -
+[2023-05-30 14:08:34,047] - 28 - INFO - Search query is successfully fetched.
+[2023-05-30 14:08:37,380] - 67 - INFO - Succefully saved in csv format.
+[2023-05-30 14:08:37,380] - 68 - INFO - Reviews are successfully fetched.
+[2023-05-30 14:08:37,381] - 225 - INFO - 127.0.0.1 - - [30/May/2023 14:08:37] "POST /review HTTP/1.1" 200 -
+[2023-05-30 14:08:37,428] - 225 - INFO - 127.0.0.1 - - [30/May/2023 14:08:37] "[33mGET /style.css HTTP/1.1[0m" 404 -
+[2023-05-30 15:09:27,860] - 225 - INFO -  * Detected change in '/Users/anshulmehra/WEB_SCRAPING/rough.py', reloading
